@@ -1,0 +1,12 @@
+p.vraag{
+    text-decoration: none;
+    border: 10px ridge #A67153;
+    border-top-left-radius: 20px; border-top-right-radius: 20px;
+    padding: 10px 20px 10px 20px;
+    color: #6e6e6e;
+    box-shadow: 2px 3px black;
+}
+
+p.antwoord{
+
+}
